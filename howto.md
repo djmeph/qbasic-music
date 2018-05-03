@@ -33,3 +33,5 @@ Playing Length(1 - 64): `C2` Plays a C Half Note
 
 
 NOTE: QBasic uses the internal speaker to play sounds and music. Many computers do not come with an internal PC speaker. To get around this problem use DOSBox or QB64.
+
+SOURCE: http://www.schoolfreeware.com/QBasic_Tutorial_25_-_Sound_And_Music_-_QB64.html
